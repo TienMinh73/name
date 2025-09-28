@@ -1,0 +1,28 @@
+nav {
+    text-align: center;
+}
+main,header {
+    text-align: center;
+    font-family: sans-serif;
+}
+ {
+    color: rgb(0, 0, 0);
+}
+h4:hover {
+    color: rgb(66, 66, 66);
+    box-shadow:  -5px 5px 5px;
+}
+h4 {
+    border: 5px solid black;
+    width: 500px;
+    border-radius: 15px;
+}
+.hov1 {
+    display: flex;
+    justify-content: center;
+}
+footer img {
+    height: 70px;
+    width: 70px;
+    border: 5px double c;
+}
