@@ -19,7 +19,7 @@ h3::after,h3::before {
 html,main,body,footer {
     background-color: rgb(255, 233, 190);
 }
-h1:first-child {
+h3:first-child {
     border: 15px solid blue;
     height: -100px;
     background-color: darkblue;
