@@ -8,11 +8,11 @@ main,header {
  {
     color: rgb(0, 0, 0);
 }
-h1:hover {
+h2:hover {
     color: rgb(66, 66, 66);
     box-shadow:  -5px 5px 5px;
 }
-h1 {
+h2 {
     border: 5px solid black;
     width: 500px;
     border-radius: 15px;
